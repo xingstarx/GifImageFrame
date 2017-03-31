@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/gift_1" android:duration="150"/>
+    <item android:drawable="@drawable/gift_2" android:duration="150"/>
+    <item android:drawable="@drawable/gift_3" android:duration="150"/>
+    <item android:drawable="@drawable/gift_4" android:duration="150"/>
+    <item android:drawable="@drawable/gift_5" android:duration="150"/>
+    <item android:drawable="@drawable/gift_6" android:duration="150"/>
+    <item android:drawable="@drawable/gift_7" android:duration="150"/>
+    <item android:drawable="@drawable/gift_8" android:duration="150"/>
+    <item android:drawable="@drawable/gift_9" android:duration="150"/>
+    <item android:drawable="@drawable/gift_10" android:duration="150"/>
+    <item android:drawable="@drawable/gift_11" android:duration="150"/>
+    <item android:drawable="@drawable/gift_12" android:duration="150"/>
+    <item android:drawable="@drawable/gift_13" android:duration="150"/>
+    <item android:drawable="@drawable/gift_14" android:duration="150"/>
+    <item android:drawable="@drawable/gift_15" android:duration="150"/>
+    <item android:drawable="@drawable/gift_16" android:duration="150"/>
+    <item android:drawable="@drawable/gift_17" android:duration="150"/>
+    <item android:drawable="@drawable/gift_18" android:duration="150"/>
+    <item android:drawable="@drawable/gift_19" android:duration="150"/>
+    <item android:drawable="@drawable/gift_20" android:duration="150"/>
+    <item android:drawable="@drawable/gift_21" android:duration="150"/>
+    <item android:drawable="@drawable/gift_22" android:duration="150"/>
+    <item android:drawable="@drawable/gift_23" android:duration="150"/>
+</animation-list>
